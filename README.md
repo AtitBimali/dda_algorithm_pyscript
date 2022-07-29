@@ -12,6 +12,6 @@ To use pyscript you need to add the following lines in your Html page:
 ```
 Read more about Pyscript [here](https://pyscript.net/)
 
-Talking about the above DDA Line Drawing Algorithm, it's currently live on this [GitHub Page]()
+Talking about the above DDA Line Drawing Algorithm, it's currently live on this [GitHub Page](https://ddaalgorith.netlify.app/)
 
 
